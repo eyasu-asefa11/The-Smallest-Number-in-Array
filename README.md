@@ -1,0 +1,1 @@
+# The-Smallest-Number-in-Array
